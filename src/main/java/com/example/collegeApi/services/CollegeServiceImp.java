@@ -35,16 +35,5 @@ public class CollegeServiceImp implements CollegeService{
         return c;
     }
 
-//    @Override
-//    public College getCollegeName(String collegeName) {
-//        College d = null;
-//        for(College college: list){
-//            if(college.getCollegeName()==collegeName){
-//                d = college;
-//                break;
-//            }
-//        }
-//        return d;
-//    }
 
 }

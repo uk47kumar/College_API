@@ -31,11 +31,4 @@ public class Controller {
         return "colleges";
     }
 
-//    @RequestMapping(value = ("/colleges/{collegeName}"))
-//    public String getCollegeName(Model model, @PathVariable("collegeName") String collegeName){
-//        College college = collegeService.getCollegeName(collegeName);
-//        model.addAttribute("colleges", college);
-//        return "colleges";
-//    }
-
 }

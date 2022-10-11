@@ -9,6 +9,5 @@ public interface CollegeService {
 
     College getCollege(long collegeId);
 
-//    College getCollegeName(String collegeName);
 
 }
